@@ -71,8 +71,8 @@ namespace WindowsFormsApp1
                     //MessageBox.Show("Number of buttons: " + count);
                     //MessageBox.Show("button " + buttonList[3].Text);
                     }
-                button1.Enabled= false;
-                button1.Visible= false;
+                button1.Enabled = false;
+                button1.Visible = false;
             }
             catch (Exception)
             {
